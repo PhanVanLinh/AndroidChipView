@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChipView">
+        <attr name="chip_item_text_color" format="color" />
+        <attr name="chip_item_text_size" format="dimension" />
+        <attr name="chip_item_bg_color" format="color" />
+        <attr name="chip_item_bg_pressed_color" format="color" />
+        <attr name="chip_item_bg_selected_color" format="color" />
+        <attr name="chip_item_corner" format="dimension" />
+        <attr name="chip_item_border_width" format="dimension" />
+        <attr name="chip_item_border_color" format="color" />
+    </declare-styleable>
+</resources>
